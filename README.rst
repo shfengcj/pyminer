@@ -13,9 +13,9 @@ pyminer is a python module  to do the data fitting by using supernovae, CMB, BAO
 
 Requirement
 ==========
-  - python2.x 
-  - numpy
-  - agpy
+- python2.x 
+- numpy
+- agpy
 
 Files
 =======
