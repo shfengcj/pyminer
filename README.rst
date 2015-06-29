@@ -4,7 +4,7 @@ Introduction
 :Version: 1.0
 :Authors: Chao-Jun Feng
 :Copyright: This document has been placed in the public domain.
-:License: pyminer is released under the Academic Free License.
+:License: pyminer is released under the GNU v2.0 License.
 
 
 Purpose
